@@ -1,0 +1,20 @@
+{
+	"users": {
+		"0001": {
+			"username": "Xile",
+			"key": "",
+			"hwid": ""
+		},
+		"0002": {
+			"username": "NanoS",
+			"key": "",
+			"hwid": ""
+		}
+	},
+	"keys": [
+		{
+			"key": "",
+			"duration": -1
+		}
+	]
+}
